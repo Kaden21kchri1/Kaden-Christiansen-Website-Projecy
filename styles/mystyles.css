@@ -1,0 +1,90 @@
+
+body{
+    
+       background-image: url(../Images/olympus\ 11.jpg);
+
+}
+
+#footer{
+       margin: auto;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: xx-large;
+      color: burlywood;
+       
+
+}
+
+.menu{
+display: flex;
+border: white;
+background-color: rgb(255, 255, 255);
+flex-direction: row;
+}
+#explain{
+       color: white;
+       font-style: italic;
+       font-size: 30px;
+
+}
+
+#profits{
+       color: white;
+       font-family:serif;
+       font-size: 50px;
+
+
+}
+
+#visualizations{
+       color: white;
+       font-family: monospace;
+       font-style: oblique;
+       font-size: 60px;
+}
+
+}
+#subres{
+       font-size: 21px;
+       font-style: italic;
+}
+#resumetitle{
+       font-size: 30px;
+       font-style: unset;
+}
+#resume{
+       background-color: rgba(255, 255, 255, 0.753);
+       font-size: 20px;
+}
+#aboutme{
+    margin-bottom: 100%;
+}
+#peter{
+       font-size: xx-large;
+       font-family: monospace;
+}
+#title2{
+       color: white;
+       border: black;
+}
+#lastnote{
+       font-style: italic;
+       font-size: xx-large;
+       color: white;
+}
+#title{
+       text-align: center;
+       color: rgb(255, 232, 190);
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       font-size: 100px;
+    
+       
+       
+}
+#subtitle{
+       text-align: center;
+       color: white;
+       font-family: monospace;
+       font-size: 70px;
+
+
+      
